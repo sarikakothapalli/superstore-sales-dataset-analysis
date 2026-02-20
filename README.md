@@ -26,7 +26,8 @@ The dataset contains:
 - Sales and discount show measurable correlation
 
 ## Dashboard Preview
-![Dashboard](Screenshots/dashboard-preview.png)
+![Dashboard](Data/dashboard-preview1.png)
+![Dashboard](Data/dashboard-preview2.png)
 
 ## 🎯 Skills Demonstrated
 - Data Cleaning
