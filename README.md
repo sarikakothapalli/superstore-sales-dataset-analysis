@@ -14,13 +14,9 @@ This project analyzes a multi-year retail Superstore dataset to uncover trends i
 
 ## 🖼️ Dashboard Preview
 
-```
-![dashboard](Data/dashboard-preview1.png)
+![Dashboard Preview](Data/dashboard-preview1.png)
+![Dashboard Preview](Data/dashboard-preview2.png)
 
-
-<img width="1920" height="1080" alt="Screenshot 2026-02-20 213753" src="https://github.com/user-attachments/assets/6b41b4fa-da1b-4141-9996-4dcf65247931" />
-
-```
 
 ## 🛠️ Tech Stack
 Power BI · DAX · Power Query · Excel
