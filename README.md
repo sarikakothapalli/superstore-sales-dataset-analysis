@@ -1,37 +1,46 @@
-# superstore-sales-dataset-analysis
-Excel-based sales data analysis using Superstore dataset with business insights.
-# Superstore Sales Analysis (Excel Project)
+# Superstore Sales Analysis
 
-## 📌 Project Objective
-To analyze sales performance, profit trends, and discount impact using the Superstore dataset in Microsoft Excel.
+End-to-end retail analytics project: from raw sales data to a star-schema data model to an interactive Power BI dashboard.
 
-## Dataset
-The dataset contains:
-- Orders data
-- Product categories
-- Regional information
-- Returns data
+## 📊 Overview
+This project analyzes a multi-year retail Superstore dataset to uncover trends in revenue, profit, discounts, and delivery performance, and presents the findings through KPI-driven dashboards for stakeholder reporting.
 
-## Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Charts
-- KPI Dashboard
-- Correlation Analysis
+## 🧱 Approach
+1. **Data Cleaning & EDA** — Cleaned raw transactional data and explored patterns in sales, profit, and delivery delays (Excel).
+2. **Data Modeling** — Designed a star-schema model with fact and dimension tables to support scalable, repeatable reporting.
+3. **Dashboarding** — Built an interactive Power BI dashboard with DAX measures for Total Revenue, Profit Margin, and Top Customers.
+4. **Insight Generation** — Identified state-wise performance trends (California, Texas, Florida) and their relationship to discounting and delivery delays.
 
-## Key Business Insights
+## 🖼️ Dashboard Preview
+
+```
+![Dashboard](Data/dashboard-preview1.png)
+![Dashboard](Data/dashboard-preview2.png)
+```
+
+## 🛠️ Tech Stack
+Power BI · DAX · Power Query · Excel
+
+## 📁 Structure
+```
+superstore-sales-analysis/
+├── data/                  # raw and cleaned datasets
+├── star-schema-model/     # fact & dimension table design
+├── dashboard/             # .pbix file
+├── images/                # dashboard screenshots
+└── README.md
+```
+
+## 🔑 Key Findings
 - Technology category generated highest sales
 - High discount rates reduced overall profitability
 - Certain regions showed consistent losses
 - Sales and discount show measurable correlation
 
-## Dashboard Preview
-![Dashboard](Data/dashboard-preview1.png)
-![Dashboard](Data/dashboard-preview2.png)
+## 🚀 How to View
+1. Clone this repo
+2. Open `dashboard/superstore.pbix` in Power BI Desktop
+3. Refresh data connections if prompted
 
-## 🎯 Skills Demonstrated
-- Data Cleaning
-- Exploratory Data Analysis
-- Business Interpretation
-- Dashboard Design
-- Analytical Thinking
+---
+*This project consolidates what were previously three separate repos (sales dashboard, Excel analysis, and star-schema model) into a single end-to-end pipeline.*
