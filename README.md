@@ -15,7 +15,8 @@ This project analyzes a multi-year retail Superstore dataset to uncover trends i
 ## 🖼️ Dashboard Preview
 
 ```
-![Dahboard](Data/dashboard-preview1.png)
+![dashboard](Data/dashboard-preview1.png)
+
 
 <img width="1920" height="1080" alt="Screenshot 2026-02-20 213753" src="https://github.com/user-attachments/assets/6b41b4fa-da1b-4141-9996-4dcf65247931" />
 
