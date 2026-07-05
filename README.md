@@ -1,3 +1,4 @@
+
 # Superstore Sales Analysis
 
 End-to-end retail analytics project: from raw sales data to a star-schema data model to an interactive Power BI dashboard.
@@ -14,8 +15,10 @@ This project analyzes a multi-year retail Superstore dataset to uncover trends i
 ## 🖼️ Dashboard Preview
 
 ```
-![Dashboard](Data/dashboard-preview1.png)
-![Dashboard](Data/dashboard-preview2.png)
+![Dahboard](Data/dashboard-preview1.png)
+
+<img width="1920" height="1080" alt="Screenshot 2026-02-20 213753" src="https://github.com/user-attachments/assets/6b41b4fa-da1b-4141-9996-4dcf65247931" />
+
 ```
 
 ## 🛠️ Tech Stack
